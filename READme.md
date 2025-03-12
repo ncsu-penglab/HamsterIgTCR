@@ -1,6 +1,6 @@
 # Hamster Ig TCR
 
-## C regions folder
+## Cregions folder
 Ig/TCR constant consensus sequences described in Adams et al. (X year) stored as fasta file **Hamster_IgTCR_Cregions.fasta**.
 
 ## IgBLAST folder 
