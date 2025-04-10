@@ -11,5 +11,5 @@ Combined IMGT Ig/TCR constant, variable, diversity, and joining germline sequenc
 used to construct the IgBLAST database are stored as fasta files.
 
 ## IgDiscover folder 
-Contains outputs using IgDiscover on Iso-Seq data that passed filtering in the consensus sequence generation pipeline described by Adams et al.
+Contains IgDiscover input yaml file and ouputs from the Iso-Seq data that passed filtering in the consensus sequence generation pipeline described by Adams et al.
 No J gene segments were discovered, therefore only outputs from V and D gene segment discovery are included in the folder.
