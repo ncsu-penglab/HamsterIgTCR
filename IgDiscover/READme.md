@@ -11,7 +11,3 @@ It is tailored to bypass analysis using the J gene segments since no J genes wer
 ## predicted_genes
 This folder contains IgDiscover predicted V and D gene segments using IgDiscover. 
 Inputs include the Mus musculus Ig/TCR V, D, and J gene segement germline sequences used in the IgBLAST used in the Adams et al. paper.
-
-## igdiscover_out
-This folder contains the intermediate outputs from IgDiscover using the custom yaml and Snakefiles.
-
