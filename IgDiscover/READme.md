@@ -2,7 +2,7 @@
 
 ## igdiscover.yaml
 This is the yaml file used for the IgDiscover analysis. 
-It is tailored to handle single-end Iso-Seq reads and enable permissive parameters for V,D, and J gene segment discovery in hamster.
+The yaml files uses permissive parameters to handle single-end Iso-Seq reads for V, D, and J gene segment discovery in hamster.
 
 ## Snakefile
 This is the modifed Snakefile used for the IgDiscover analysis.
