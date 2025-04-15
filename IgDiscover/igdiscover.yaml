@@ -28,7 +28,7 @@ preprocessing_filter:
 
 ## Candidate discovery settings
 ignore_j: true                  # ignores J genes during clustering step; more unique V/J pairs were observed producing smaller clusters
-subsample: 5000                 # increases sample size from 1000 to capture rarer alleles
+subsample: 5000                 # increases sample size upper limit from 1000 to 5000 to capture rarer alleles
 d_coverage: 1
 
 ## V candidate filtering
