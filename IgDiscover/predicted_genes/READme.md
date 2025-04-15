@@ -1,4 +1,4 @@
 # predicted_genes folder
 
 ## V.fasta
-Contains the 274 IgDiscover-predicted V gene segments for hamster using the putative Ig transcripts from the Adams et al. paper
+Contains the 274 IgDiscover-predicted hamster V gene segments using the putative Ig Iso-Seq transcripts from the Adams et al. paper
