@@ -1,7 +1,7 @@
 # Hamster Ig TCR
 
 ## Cregions folder
-Ig/TCR constant region consensus sequences described in Adams et al. (X year) stored as fasta file **Hamster_IgTCR_Cregions.fasta**.
+Ig/TCR constant region consensus sequences described in Adams et al. (2025) stored as fasta file **Hamster_IgTCR_Cregions.fasta**.
 IMGT's germline annotations of the C-regions from our Iso-Seq data on the hamster reference genome are provided as links in a table in the folder.
 
 ## IgBLAST folder 
