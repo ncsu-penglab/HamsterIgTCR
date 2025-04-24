@@ -34,7 +34,7 @@ This repository contains supporting data and resources related to the **Ig and T
 - Contains **AlphaFold3-predicted hamster TRBC1 structures** for:
   - The **reference** sequence (genomic sequence matching the hamster reference genome):  
     - `fold_trbc1_213a_ref_hamster_model_0.cif`
-  - The **alternate variant** containing a non-synonymous SNV (**213A>G**) that introduces the **S71G amino acid substitution**:  
+  - The **alternate variant** containing a non-synonymous SNV (**213A>G**) that introduces the **S71G non-synonymous amino acid change**:  
     - `fold_trbc1_213g_alt_hamster_model_0.cif`
 
 - Includes the **human TRBC1 crystal structure** (PDB ID: 7AMP), obtained from the Protein Data Bank:  
