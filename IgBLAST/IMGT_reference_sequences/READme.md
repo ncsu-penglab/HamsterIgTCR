@@ -1,6 +1,31 @@
-# IMGT_reference_sequences folder
+# IMGT Reference Sequences
 
-Fasta files contain combined [IMGT](https://www.imgt.org/genedb/) Ig/TCR constant, variable, 
-diversity, and joining germline sequences from mouse.
-Reference fasta files include **in-frame** and **any functionality (functional, ORF, and pseudogene)**
-for all germline nucleotide sequences.
+This folder contains **FASTA files** with combined **IMGT germline sequences** for **immunoglobulin (Ig)** and **T cell receptor (TCR)** genes from **Mus musculus (mouse)**. These reference sequences include:
+
+- **Constant (C) regions**  
+- **Variable (V) regions**  
+- **Diversity (D) regions**  
+- **Joining (J) regions**
+
+---
+
+## Sequence Details
+
+- All **germline nucleotide sequences** from IMGT are included, encompassing:
+  - **In-frame sequences** (i.e., those without frameshifts)
+  - **Any functionality status**:  
+    - **Functional genes**  
+    - **Open reading frames (ORFs)**  
+    - **Pseudogenes**
+
+These combined reference sequences were used to build **IgBLAST databases** for immunogenetic analyses.
+
+---
+
+## Source
+
+Germline sequences were downloaded from **[IMGT/GENE-DB](https://www.imgt.org/genedb/)**, the international ImMunoGeneTics information system.
+
+---
+
+For more details on how these sequences were used in analysis, refer to *Adams et al. (2025)*.
