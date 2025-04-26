@@ -28,7 +28,7 @@ Our findings indicate that there is **no read support for the intron retention e
 - **Red**: 3dpi
 - **Yellow**: 5dpi
 - **Orange**: 14dpi
-- 
+  
 Although some **read support for *IGHG3*** is observed at **14dpi in lung tissue**, there remains **no evidence of intron retention** between exons 2 and 3 in any condition. This further supports the **Adams et al. (2025)** annotation and suggests that the proposed intron retention by *Oliver et al.* is likely an assembly error.
 
 ---
