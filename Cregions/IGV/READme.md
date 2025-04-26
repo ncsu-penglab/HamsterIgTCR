@@ -34,6 +34,10 @@ Although some **read support for *IGHG3*** is observed at **14dpi in lung tissue
 ---
 
 ## Conclusion
-This analysis demonstrates that **10x 3' GEX data** from both **uninfected** and **infected** Syrian hamster tissues **do not support the intron retention event** within the CH2 region of *IGHG3* as described by *Oliver et al.*. Instead, the data supports with the **Adams et al. (2025)** C-region exon-intron pattern, reinforcing that the intron retention is likely an **assembly error**. For additional information on the **STAR** alignment methods see *Adams et al. (2025)*.
+This analysis demonstrates that **10x 3' GEX data** from both **uninfected** and **infected** Syrian hamster tissues **do not support the intron retention event** within the CH2 region of *IGHG3* as described by *Oliver et al.*. Instead, the data supports with the **Adams et al. (2025)** C-region exon-intron pattern, reinforcing that the intron retention is likely an **assembly error**. 
+
+---
+
+For additional information on the **STAR** alignment methods, see *Adams et al. (2025)*.
 
 ---
