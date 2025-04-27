@@ -1,6 +1,6 @@
 # TRBC1_ProteinStructures
 
-This folder contains the highest-confidence **AlphaFold3-predicted hamster TRBC1 protein structures** for both the hamster **reference** sequence (genomic sequence matching the hamster reference genome) and an **alternate** sequence containing the SNV that results in a non-synonymous amino acid substitution.
+This folder contains the highest-confidence **AlphaFold3-predicted hamster TRBC1 protein structures** for both the hamster **reference** sequence (genomic sequence matching the hamster reference genome) and an **alternate** sequence containing the SNV that results in a non-synonymous amino acid change.
 
 ## Files included:
 - `fold_trbc1_213a_ref_hamster_model_0.cif`:  
