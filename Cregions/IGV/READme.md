@@ -10,7 +10,7 @@ Our findings indicate that there is **no read support for the intron retention e
 
 ### SRA Accessions and Conditions:
 - **Uninfected tissues from all hamsters**: SRR13151627–SRR13151632
-- **Infected tissues from just hamster 1 across all timepoints**: SRR13151633, SRR13151636, SRR13151639, SRR13151642, SRR13151645, SRR13151648, SRR13151651, SRR13151654.
+- **Hamster #1 from all infection timepoints and tissues**: SRR13151633, SRR13151636, SRR13151639, SRR13151642, SRR13151645, SRR13151648, SRR13151651, SRR13151654.
 
 ---
 
