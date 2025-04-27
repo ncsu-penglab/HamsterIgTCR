@@ -56,8 +56,6 @@ germline_filter:
   cdr3_shared_ratio: 1.0
   unique_d_ratio: 0.0
 
-## J discovery settings
-## Permissive parameters used, but no new J genes were discovered
 j_discovery:
   allele_ratio: 0.0                  # force discovery even for low frequent alleles
   cross_mapping_ratio: 1.0           # ignore potential cross-mapping
