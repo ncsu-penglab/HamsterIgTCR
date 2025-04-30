@@ -10,7 +10,7 @@ Our findings indicate that there is **no read support for the intron retention e
 
 ### SRA Accessions and Conditions:
 - **Uninfected tissues from all hamsters**: SRR13151627–SRR13151632
-- **Hamster #1 from all infection timepoints and tissues**: SRR13151633, SRR13151636, SRR13151639, SRR13151642, SRR13151645, SRR13151648, SRR13151651, SRR13151654.
+- **Infected tissues and timepoints from all hamsters**: SRR13151633-SRR13151656.
 
 ---
 
@@ -18,18 +18,21 @@ Our findings indicate that there is **no read support for the intron retention e
 
 ![Uninfected Hamster Tissues](https://github.com/ncsu-penglab/HamsterIgTCR/blob/main/Cregions/IGV/AllHamsters_Uninfected.png)
 
-**Figure 1.Alignment of uninfected hamster tissues to reference genome.** This figure shows the alignment of **10x 3' GEX data** from **uninfected tissues** of all hamsters to the reference genome at the *IGHG3* locus. Lung and blood tissues are visualized in **grey** and **blue**, respectively. While there is minimal read support for *IGHG3* across these samples, **no evidence of intron retention between exons 2 and 3 (CH2 region)** is observed. This support the **Adams et al. (2025)** *IGHG3* C-region exon-intron pattern.
+**Figure 1.Alignment of uninfected hamster tissues to reference genome.** This figure shows the alignment of **10x 3' GEX data** from **uninfected tissues** of all hamsters to the reference genome at the *IGHG3* locus. Lung and blood tissues are visualized in **grey** and **blue**, respectively. While there is minimal read support for *IGHG3* across these samples, **no evidence of intron retention between exons 2 and 3 (CH2 region)** is observed. This support the **Adams et al. (2025)** *IGHG3* C-region intron-exon splicing pattern.
 
 ---
-![Hamster 1 Infected Tissues](https://github.com/ncsu-penglab/HamsterIgTCR/blob/main/Cregions/IGV/Hamster1_Infected2Ref.png)
+![Hamster Infected 2 and 3dpi Tissues](https://github.com/ncsu-penglab/HamsterIgTCR/blob/main/Cregions/IGV/AllHamsters_Infected_2_3dpi.png)
 
-**Figure 2.Alignment of infected hamster #1 tissues from all timepoints to reference genome.** This figure presents the **infected tissues from hamster 1** at multiple timepoints post SARS-CoV-2 infection. Lung and blood tissues are represented in **grey** and **blue**, respectively, while infection timepoints are color-coded as:
+**Figure 2.Alignment of infected hamster tissues from 2 and 3dpi timepoints to reference genome.** This figure presents the **infected tissues from all hamsters** at multiple timepoints post SARS-CoV-2 infection. Lung and blood tissues are represented in **grey** and **blue**, respectively, while infection timepoints are color-coded as:
 - **Green**: 2 days post-infection (2dpi)
 - **Red**: 3dpi
+
+![Hamster Infected 2 and 3dpi Tissues](https://github.com/ncsu-penglab/HamsterIgTCR/blob/main/Cregions/IGV/AllHamsters_Infected_5_14dpi.png)
+**Figure 3.Alignment of infected hamster tissues from 5 and 14dpi timepoints to reference genome.** This figure presents the **infected tissues from all hamsters** at multiple timepoints post SARS-CoV-2 infection. Lung and blood tissues are represented in **grey** and **blue**, respectively, while infection timepoints are color-coded as:
 - **Yellow**: 5dpi
 - **Orange**: 14dpi
   
-Although some **read support for *IGHG3*** is observed at **14dpi in lung tissue**, there remains **no evidence of intron retention** between exons 2 and 3 in any condition. This further supports the **Adams et al. (2025)** annotation and suggests that the proposed intron retention by *Oliver et al.* is likely an assembly error.
+Although some **read support for *IGHG3*** is observed at **14dpi in lung tissue**, there remains **no evidence of intron retention** between exons 2 and 3 in any condition. This further supports the **Adams et al. (2025)** C-region consensus sequence intron-exon splicing pattern and suggests that the proposed intron retention by *Oliver et al.* is likely an assembly error.
 
 ---
 
