@@ -13,13 +13,6 @@ This folder contains configuration files and outputs related to **IgDiscover** a
 
 ---
 
-### `Snakefile`
-
-- This is the **modified Snakemake workflow file** used to run IgDiscover on the Iso-Seq transcript inputs.  
-- Modifications were made to ensure compatibility with **single-end long-read data** and hamster-specific discovery needs.
-
----
-
 ## `predicted_genes` Folder
 
 - Contains the **predicted V gene segments** output from IgDiscover.  
