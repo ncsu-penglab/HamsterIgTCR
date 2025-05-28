@@ -10,8 +10,6 @@ This repository contains supporting data and resources related to the **Ig and T
   - `Hamster_IgTCR_Cregions.fasta`
   
 - **IMGT germline annotations** of the C-region consensus sequences, based on alignment to the hamster reference genome, are provided via external links in a summary table within this folder.
-  
-- **IGV** visualizations of the *Oliver et al.* 10x 3' GEX data from all hamsters aligned to the reference genome in at the *IGHG3* locus.
 
 ---
 
