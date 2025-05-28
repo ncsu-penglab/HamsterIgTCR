@@ -22,9 +22,6 @@ This folder contains **hamster Ig/TCR constant region consensus sequences** gene
 
 These annotations provide additional reference context for hamster Ig and TCR loci.
 
-## IGV 
-This folder contains alignment visualizations from **Integrative Genome Viewer (IGV)** of **10x 3' GEX data** ([PRJNA681002](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA681002)) from Syrian hamsters used by *Oliver et al.* for Ig/TCR C-region consensus sequence generation. 
-
 ---
 
 For details on the consensus sequence generation pipeline, please refer to *Adams et al. (2025)*.
