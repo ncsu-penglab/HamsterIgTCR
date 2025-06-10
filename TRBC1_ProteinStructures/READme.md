@@ -7,7 +7,7 @@ This folder contains the highest-confidence **AlphaFold3-predicted hamster TRBC1
    AlphaFold3-predicted structure of **mouse TRBC1 reference**.
 
 - `fold_trbc1_213a_ref_hamster_model_0.cif`:  
-  AlphaFold3-predicted structure of **hamster TRBC1 reference** (with nucleotide 213A).This is considered the reference because it matches the reference genome sequence.
+  AlphaFold3-predicted structure of **hamster TRBC1 reference** (with nucleotide 213A).
   
 - `fold_trbc1_213g_alt_hamster_model_0.cif`:  
   AlphaFold3-predicted structure of **hamster TRBC1 alternate variant** containing the SNV **213A>G**, which introduces a non-synonymous amino acid change **S71G**.
