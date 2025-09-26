@@ -23,12 +23,6 @@ This repository contains supporting data and resources related to the **Ig and T
 
 ---
 
-## IgDiscover Folder
-
-- Contains the **IgDiscover input YAML file** and **output results** from the Iso-Seq data used for consensus sequence generation and germline gene prediction, as described in *Adams et al. (2025)*.
-
----
-
 ## TRBC1_ProteinStructures Folder
 
 - Contains **AlphaFold3-predicted hamster TRBC1 structures** for:
