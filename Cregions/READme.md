@@ -1,6 +1,6 @@
 # Cregions
 
-This folder contains **hamster Ig/TCR constant region consensus sequences** generated using long-read transcriptome data, following the pipeline described in *Adams et al. (2025)*.
+This folder contains **hamster IG/TR constant region consensus sequences** generated using long-read transcriptome data, following the pipeline described in Adams et al. (2025).
 
 - The consensus sequences are provided in the FASTA file:  
   - `Hamster_IgTCR_Cregions.fasta`
@@ -24,5 +24,5 @@ These annotations provide additional reference context for hamster Ig and TCR lo
 
 ---
 
-For details on the consensus sequence generation pipeline, please refer to *Adams et al. (2025)*.
+For details on the consensus sequence generation pipeline, please refer to Adams et al. (2025).
 
