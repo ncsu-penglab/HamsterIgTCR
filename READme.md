@@ -1,6 +1,6 @@
 # Hamster Ig/TCR
 
-This repository contains supporting data and resources related to the **Ig and TCR constant region analyses** described in Adams et al. (2025), including consensus sequences, IgBLAST databases and AlphaFold3 TRBC1 protein structure predictions.
+This repository contains supporting data and resources related to the **IG and TR constant region analyses** described in Adams et al. (2025), including consensus sequences, IgBLAST databases and AlphaFold3 TRBC1 protein structure predictions.
 
 ---
 
