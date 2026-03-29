@@ -1,6 +1,6 @@
 # IMGT Reference Sequences
 
-This folder contains **FASTA files** with combined **IMGT germline sequences** for **immunoglobulin (Ig)** and **T cell receptor (TCR)** genes from **Mus musculus (mouse)**. These reference sequences include:
+This folder contains **FASTA files** with combined **IMGT germline sequences** for **immunoglobulin (IG)** and **T cell receptor (TR)** genes from **Mus musculus (mouse)**. These reference sequences include:
 
 - **Constant (C) regions**  
 - **Variable (V) regions**  
@@ -28,4 +28,4 @@ Germline sequences were downloaded from **[IMGT/GENE-DB](https://www.imgt.org/ge
 
 ---
 
-For more details on how these sequences were used in analysis, refer to *Adams et al. (2025)*.
+For more details on how these sequences were used in analysis, refer to Adams et al. (2026).
