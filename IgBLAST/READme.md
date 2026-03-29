@@ -13,7 +13,7 @@ The reference germline sequences were sourced from **Mus musculus (mouse)** IMGT
 
 ## Purpose
 
-This IgBLAST database was used for **hamster IG/TR constant region consensus sequence generation**, as described in Adams et al. (2025). The mouse reference sequences served as a starting point due to the lack of fully annotated ferret Ig/TCR germline databases.
+This IgBLAST database was used for **hamster IG/TR constant region consensus sequence generation**, as described in Adams et al. (2026). The mouse reference sequences served as a starting point due to the lack of fully annotated ferret IG/TR germline databases.
 
 ---
 
@@ -23,4 +23,4 @@ The database was built following the guidelines provided by **[NCBI IgBLAST](htt
 
 ---
 
-For further details on database preparation or usage in the analysis, refer to Adams et al. (2025).
+For further details on database preparation or usage in the analysis, refer to Adams et al. (2026).
