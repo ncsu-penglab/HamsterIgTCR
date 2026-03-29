@@ -1,6 +1,6 @@
-# Cregions
+# C regions
 
-This folder contains **hamster IG/TR constant region consensus sequences** generated using long-read transcriptome data, following the pipeline described in Adams et al. (2025).
+This folder contains **hamster IG/TR constant region consensus sequences** generated using long-read transcriptome data, following the pipeline described in Adams et al. (2026).
 
 - The consensus sequences are provided in the FASTA file:  
   - `Hamster_IgTCR_Cregions.fasta`
@@ -9,7 +9,7 @@ This folder contains **hamster IG/TR constant region consensus sequences** gener
 
 ## IMGT Reference Annotations
 
-**IMGT** independently analyzed the same long-read transcriptome datasets and provides **germline** and **artificially spliced** sequences for hamster Ig and TCR loci. These sequences are publicly available through the following links:
+**IMGT** independently analyzed the same long-read transcriptome datasets and provides **germline** and **artificially spliced** sequences for hamster IG/TR loci. These sequences are publicly available through the following links:
 
 | Locus   | Number of Genes | IMGT Link                                                                 |
 |---------|-----------------|---------------------------------------------------------------------------|
@@ -20,9 +20,9 @@ This folder contains **hamster IG/TR constant region consensus sequences** gener
 | `TRB`   | 2               | [IMGT000239](https://www.imgt.org/ligmdb/view.action?id=IMGT000239)       |
 | `TRG`   | 2               | [IMGT000240](https://www.imgt.org/ligmdb/view.action?id=IMGT000240)       |
 
-These annotations provide additional reference context for hamster Ig and TCR loci.
+These annotations provide additional reference context for hamster IG/TR loci.
 
 ---
 
-For details on the consensus sequence generation pipeline, please refer to Adams et al. (2025).
+For details on the consensus sequence generation pipeline, please refer to Adams et al. (2026).
 
