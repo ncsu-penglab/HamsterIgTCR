@@ -36,5 +36,5 @@ This repository contains supporting data and resources related to the **IG and T
 
 ---
 
-For more details on the methods and analyses, refer to Adams et al. (2025).
+For more details on the methods and analyses, refer to Adams et al. (2026).
 
